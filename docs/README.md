@@ -4,4 +4,3 @@
 
 <img src="https://ik.imagekit.io/ym3njxeyk4e/default-image.jpg" alt="box" style="width:25%;height:100%">
 
-5zN3$$tyx
