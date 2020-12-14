@@ -1,12 +1,15 @@
-- Getting started
+- Overview
 
-    - [README](README.md)
-    - [next](next.md)
+    - [General Info](README.md "the start of documenatation for OSURCue")
     - [next1](next1.md)
 
-- More example
+- Docs by Years
+
+    - [2020-21](2020-21/README.md)
+    - [Next Season]()
+
+- Something else that might be useful
 
     - [stuff](stuff.md)
     - [stuff](stuff.md)
 
-- [Big Stuff](big_stuff.md)

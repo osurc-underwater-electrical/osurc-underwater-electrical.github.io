@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>OSURC-UE Docs</title>
+  <title>OSURCue Docs</title>
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
@@ -18,40 +18,19 @@
       onlyCover: true,
       loadSidebar: true,
       loadNavbar: true,
+      maxLevel: 4,
+      subMaxLevel: 2, // sets the depth on the sidebar
 
-      search: 'auto',
-
-      search : [
-        '/README'
-
-      ],
-
-      // complete configuration parameters
       search: {
-        maxAge: 86400000, // Expiration time, the default one day
-        paths: [], // or 'auto'
-        placeholder: 'Type to search',
-
-        // Localization
-        placeholder: {
-        '/': 'Type to search'
-        },
-
-        noData: 'No Results!',
-
-        // Localization
         noData: {
-          '/': 'No Results'
+          '/': 'No results!'
         },
-
-        // Headline depth, 1 - 6
-        depth: 2,
-
-        hideOtherSidebarContent: false, // whether or not to hide other sidebar content
-
+        paths: 'auto',
+        placeholder: {
+          '/': 'Search'
+        }
       }
 
-    
     }
   </script>
   <!-- Docsify v4 -->
