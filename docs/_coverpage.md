@@ -3,11 +3,11 @@
 
 # OSURC Underwater Electrical <small>Documentation</small>
 
-> Creating a record and history of our work.
+> Writing things down so we don't forget
 
-- See the Past
-- See the Present
-- See the Future
+- Make it easier to start designing
+- Learn what has been done before
+- See what others are doing
 
 [Start Learning](README.md)
 
