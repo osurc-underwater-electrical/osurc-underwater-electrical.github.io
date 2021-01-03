@@ -6,7 +6,8 @@ Please refer to it for more in depth information and best practices.
 
 There is also a cheat sheet available [here](https://www.markdownguide.org/cheat-sheet/).
 
-Additionally, these suggestions are just recommendations.  A future doc maintainer should feel free to change the style if they want.
+*P.S. these suggestions are just recommendations.  A future doc maintainer should feel free to change the style if they want.*<br>
+*P.P.S. this page will make more sense if the raw markdown is [read](https://raw.githubusercontent.com/osurcue/osurcue.github.io/master/docs/site-maintenance/style-guide.md)*
 
 ## Lists
 
@@ -46,7 +47,7 @@ Do not use the underscore character.
 
 ## Images
 
-The images are stored on a cloud CDN to reduce the size of repository but still provide a central location for image sources.
+The images are stored on a CDN to reduce the size of repository but still provide a central location for image sources.
 
 Use an HTML `<img>` tag to include an image from there like this (changing the src of course):
 

@@ -2,5 +2,5 @@
 
 - Site Maintenance
     
-    - [README](site-maintenance/README.md)
+    - [Site Format](site-maintenance/site-format.md)
     - [Style Guide](site-maintenance/style-guide.md)

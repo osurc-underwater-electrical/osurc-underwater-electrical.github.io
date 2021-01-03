@@ -12,8 +12,6 @@ Thank you to all those who helped make this documentation possible and useful.
 
 ## Past Maintainers
 
-- 2021 - 2022
-
 - 2020 - 2021
 
     - Liam Gombart

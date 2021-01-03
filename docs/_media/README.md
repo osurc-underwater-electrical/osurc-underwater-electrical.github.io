@@ -1,4 +1,4 @@
-The images are stored on a cloud CDN to reduce the size of repository but still provide a central location for image sources.
+The images are stored on a CDN to reduce the size of repository but still provide a central location for image sources.
 
 Use an html <img> tag to include an image from there like this (changing the src of course):
 

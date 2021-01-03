@@ -9,5 +9,5 @@
 - Learn what has been done before
 - See what others are doing
 
-[Start Learning](README.md)
+[Start Reading Docs](README.md)
 
