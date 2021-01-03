@@ -1,4 +1,4 @@
-<img src="https://ik.imagekit.io/ym3njxeyk4e/derp-face_XgfN3Sty9.jpg" alt="box" style="width:20%;height:25%">
+<img src="https://ik.imagekit.io/kjbx6tb5231/OSURCue-Logo_pvj3O_Os2.png" alt="box" style="width:20%;height:25%">
 
 
 # OSURC Underwater Electrical <small>Documentation</small>

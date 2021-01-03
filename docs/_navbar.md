@@ -1,4 +1,4 @@
-* Docs by Year
+- Docs by Year
 
-    * [2020-21](2020-21/README.md)
-    * [2021-22](2021-22/README.md)
+    - [2020-2021](2020-2021/README.md)
+    - [2021-2022](2021-2022/README.md)

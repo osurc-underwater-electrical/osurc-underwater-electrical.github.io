@@ -4,5 +4,7 @@
 
 - Current Design
 
-    - [Getting Started](2020-21/README.md)
+    - [Getting Started](2020-2021/README.md)
 
+- [For Site Maintainer(s)](site-maintenance/README.md)
+- [Acknowledgments](acknowledgments.md)
