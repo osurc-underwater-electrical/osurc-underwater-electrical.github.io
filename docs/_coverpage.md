@@ -3,7 +3,7 @@
 
 # OSURC Underwater Electrical <small>Documentation</small>
 
-> Writing things down so we don't forget
+> Writing things down so we remember
 
 - Make it easier to start designing
 - Learn what has been done before
